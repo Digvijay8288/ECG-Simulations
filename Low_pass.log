@@ -1,0 +1,11 @@
+LTspice 24.0.12 for Windows
+Circuit: * D:\LAB_simulation_EE230\ECG Project 1\Low_pass.asc
+Start Time: Sat Apr 12 16:46:10 2025
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = modified trap
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.250 seconds.
+
